@@ -1,17 +1,6 @@
 Steps:
-
 1. Import necessary libraries
-
-
-
 2. Separate dataset into 4 key components:
-   
-    
-    training data, testing data, training labels, and testing labels
-    
-    
-    
+    → training data, testing data, training labels, and testing labels   
 3. Create SVM, Fit the training data,  and train it (select kernel as well)
-
-
 4. Predict testing data and compare accuracy to testing_labels 
