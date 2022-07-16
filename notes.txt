@@ -5,9 +5,7 @@ Steps:
 
 
 2. Separate dataset into 4 key components:
-    
-    
-    
+   
     
     training data, testing data, training labels, and testing labels
     
